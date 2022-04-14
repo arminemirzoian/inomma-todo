@@ -1,0 +1,16 @@
+.Kanban {
+    height: min-content;
+    width: 90vw;
+    padding: 1rem 2rem;
+
+}
+
+.Kanban-columns-container {
+    min-height: min-content;
+    height: 100%;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: left;
+    align-items: stretch;
+    gap: 20px
+}
